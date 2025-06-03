@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853597593530",
+    "project_id": "task1-efcea",
+    "storage_bucket": "task1-efcea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853597593530:android:3e6b14040b810a59f98783",
+        "android_client_info": {
+          "package_name": "com.example.task1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9kaeR7ETS5GXOXgC4ayd3_eag40hlgRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
